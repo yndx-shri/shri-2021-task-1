@@ -1,0 +1,29 @@
+{
+  "name": "shri-2021-task-1",
+  "version": "0.0.0",
+  "description": "SHRI 2021 task 1 solution by maksimn",
+  "main": "build/app.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start":"node build/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maksimn/shri-2021-task-1.git"
+  },
+  "keywords": [
+    "shri"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maksimn/shri-2021-task-1/issues"
+  },
+  "homepage": "https://github.com/maksimn/shri-2021-task-1#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
